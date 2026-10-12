@@ -1,0 +1,77 @@
+{
+  "../screens/pages/details/index.tsx": {
+    "file": "assets/details-ClJ7EXV6.js",
+    "name": "details",
+    "src": "../screens/pages/details/index.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "index.html"
+    ]
+  },
+  "../screens/pages/projects/index.tsx": {
+    "file": "assets/projects-B3PjCCX3.js",
+    "name": "projects",
+    "src": "../screens/pages/projects/index.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "index.html"
+    ]
+  },
+  "../screens/pages/today/index.tsx": {
+    "file": "assets/today-DtytJ65a.js",
+    "name": "today",
+    "src": "../screens/pages/today/index.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "index.html",
+      "../screens/pages/details/index.tsx"
+    ]
+  },
+  "../screens/pieces/fonts/geist-mono-latin-400-normal.woff2": {
+    "file": "assets/geist-mono-latin-400-normal-DTRLJnHl.woff2",
+    "src": "../screens/pieces/fonts/geist-mono-latin-400-normal.woff2"
+  },
+  "../screens/pieces/fonts/geist-mono-latin-500-normal.woff2": {
+    "file": "assets/geist-mono-latin-500-normal-YINYabwD.woff2",
+    "src": "../screens/pieces/fonts/geist-mono-latin-500-normal.woff2"
+  },
+  "../screens/pieces/fonts/geist-sans-latin-400-normal.woff2": {
+    "file": "assets/geist-sans-latin-400-normal-gapTbOY8.woff2",
+    "src": "../screens/pieces/fonts/geist-sans-latin-400-normal.woff2"
+  },
+  "../screens/pieces/fonts/geist-sans-latin-500-normal.woff2": {
+    "file": "assets/geist-sans-latin-500-normal-uokXdC-Q.woff2",
+    "src": "../screens/pieces/fonts/geist-sans-latin-500-normal.woff2"
+  },
+  "../screens/pieces/fonts/geist-sans-latin-600-normal.woff2": {
+    "file": "assets/geist-sans-latin-600-normal-DFOURf8L.woff2",
+    "src": "../screens/pieces/fonts/geist-sans-latin-600-normal.woff2"
+  },
+  "../screens/pieces/fonts/instrument-serif-latin-400-normal.woff2": {
+    "file": "assets/instrument-serif-latin-400-normal-DnYpCC2O.woff2",
+    "src": "../screens/pieces/fonts/instrument-serif-latin-400-normal.woff2"
+  },
+  "index.html": {
+    "file": "assets/index-LEfZiekB.js",
+    "name": "index",
+    "src": "index.html",
+    "isEntry": true,
+    "dynamicImports": [
+      "../screens/pages/details/index.tsx",
+      "../screens/pages/projects/index.tsx",
+      "../screens/pages/today/index.tsx"
+    ],
+    "css": [
+      "assets/index-Cvpp_y_q.css"
+    ],
+    "assets": [
+      "assets/core-worker-DccR-VDg.js",
+      "assets/geist-sans-latin-400-normal-gapTbOY8.woff2",
+      "assets/geist-sans-latin-500-normal-uokXdC-Q.woff2",
+      "assets/geist-sans-latin-600-normal-DFOURf8L.woff2",
+      "assets/geist-mono-latin-400-normal-DTRLJnHl.woff2",
+      "assets/geist-mono-latin-500-normal-YINYabwD.woff2",
+      "assets/instrument-serif-latin-400-normal-DnYpCC2O.woff2"
+    ]
+  }
+}
