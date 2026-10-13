@@ -1,6 +1,6 @@
 {
   "../screens/pages/details/index.tsx": {
-    "file": "assets/details-ClJ7EXV6.js",
+    "file": "assets/details-PAw7QUAH.js",
     "name": "details",
     "src": "../screens/pages/details/index.tsx",
     "isDynamicEntry": true,
@@ -9,7 +9,7 @@
     ]
   },
   "../screens/pages/projects/index.tsx": {
-    "file": "assets/projects-B3PjCCX3.js",
+    "file": "assets/projects-BogWpilf.js",
     "name": "projects",
     "src": "../screens/pages/projects/index.tsx",
     "isDynamicEntry": true,
@@ -18,7 +18,7 @@
     ]
   },
   "../screens/pages/today/index.tsx": {
-    "file": "assets/today-DtytJ65a.js",
+    "file": "assets/today-CDL9DhKr.js",
     "name": "today",
     "src": "../screens/pages/today/index.tsx",
     "isDynamicEntry": true,
@@ -52,7 +52,7 @@
     "src": "../screens/pieces/fonts/instrument-serif-latin-400-normal.woff2"
   },
   "index.html": {
-    "file": "assets/index-LEfZiekB.js",
+    "file": "assets/index-CTqIhnV4.js",
     "name": "index",
     "src": "index.html",
     "isEntry": true,
@@ -65,7 +65,7 @@
       "assets/index-Cvpp_y_q.css"
     ],
     "assets": [
-      "assets/core-worker-DccR-VDg.js",
+      "assets/core-worker-DtkwxM4p.js",
       "assets/geist-sans-latin-400-normal-gapTbOY8.woff2",
       "assets/geist-sans-latin-500-normal-uokXdC-Q.woff2",
       "assets/geist-sans-latin-600-normal-DFOURf8L.woff2",
