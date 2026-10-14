@@ -1,0 +1,1 @@
+var e=new WeakMap;async function t(t,n){let r=e.get(t);r===void 0&&(r=new Set,e.set(t,r));let i=JSON.stringify([n.kind,n.v,n.project,n.args]);if(r.has(i))return null;r.add(i);try{return await t(n)}finally{r.delete(i)}}export{t};
